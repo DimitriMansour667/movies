@@ -25,3 +25,7 @@ a.text-2xl.text-white{
 body > *{
     background-color: black;
 }
+.pointer-events-auto.absolute > * {
+    background-color: black;
+    color: black;
+}
