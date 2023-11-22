@@ -9,3 +9,7 @@
 a.text-2xl.text-white{
     display: none;
 }
+
+.absolute.bottom-4.h-\[100vh\].w-\[3000px\].rounded-\[100\%\].bg-denim-300.md\:w-\[200vw\]{
+    display: none;
+}
