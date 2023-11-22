@@ -13,3 +13,15 @@ a.text-2xl.text-white{
 .absolute.bottom-4.h-\[100vh\].w-\[3000px\].rounded-\[100\%\].bg-denim-300.md\:w-\[200vw\]{
     display: none;
 }
+
+.relative.flex.flex-col.rounded-\[28px\].bg-denim-400.transition-colors.focus-within\:bg-denim-400.hover\:bg-denim-500.sm\:flex-row.sm\:items-center{
+    background-color: black;
+}
+
+.flex.relative.flex-row.gap-4{
+    background-color: black;
+}
+
+body > *{
+    background-color: black;
+}
