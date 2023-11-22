@@ -33,6 +33,10 @@ body > *{
     background-color: black;
 }
 
+h1.text-2xl.font-bold.text-white.sm\:text-3xl.md\:text-4xl.mx-auto.max-w-xs{
+    display: none;
+}
+
 h1.text-2xl.font-bold.text-white.sm\:text-3xl.md\:text-4xl.mx-auto.max-w-xs::after{
     content: 'Huge Baghay Movies';
 }
