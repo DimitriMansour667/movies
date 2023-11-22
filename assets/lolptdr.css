@@ -28,3 +28,11 @@ body > *{
 .pointer-events-auto.absolute > * {
     background-color: black;
 }
+
+.text-2xl.text-white > * {
+    background-color: black;
+}
+
+.text-2xl.font-bold.text-white.sm\:text-3xl.md\:text-4xl.mx-auto.max-w-xs{
+    content: 'Huge Baghay Movies';
+}
