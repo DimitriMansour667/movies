@@ -22,7 +22,7 @@ a.text-2xl.text-white{
     background-color: black;
 }
 
-body > *{
+body *{
     background-color: black;
 }
 .pointer-events-auto.absolute > * {
