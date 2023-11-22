@@ -1,3 +1,7 @@
 .flex.min-h-screen.flex-col{
     background-color: black;
 }
+
+.flex.h-12.w-12.items-center.justify-center.rounded-full.border-2.border-transparent.bg-denim-500.transition-[background-color,color,transform,border-color].duration-75.cursor-pointer.hover:scale-110.hover:bg-denim-600.hover:text-white.active:scale-125{
+    
+}
